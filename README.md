@@ -1,5 +1,6 @@
 # AIEagles
 Control a drone with hand motion or keyboard / Make a drone track selected object automatically with YOLO and mobilenet.   
+
 NOTE: Custom models in this repository only contains trained data for soldiers and fighter planes. People with casual cloth and other aircrafts cannot be tracked with this model. Use general pretrained model instead.
 
 # General Preperation
@@ -39,10 +40,12 @@ We used source code from 'AlexeyAB/darknet'(which was also forked from pjreddie/
 This code is a fork from the repository below:   
 https://github.com/AlexeyAB/darknet   
 
-### Execution
-1. Connect your webcam to your computer. Check your camera index. If it is not 0, then edit camera index value to yours inside the source code.
-2. Connect a Tello drone.
-3. Execute main.py.
+### Installation
+1. Download 'yolov3_best.weights' from the link below and place it inside 'HandMotion' directory. (Directory where main.py exists.)   
+https://afacloud.ml/index.php/s/5nQFwpZmEriCxtQ
+2. Connect your webcam to your computer. Check your camera index. If it is not 0, then edit camera index value to yours inside the source code.
+3. Connect a Tello drone.
+4. Execute main.py.
 
 # YOLO
 
