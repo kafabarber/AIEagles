@@ -1,0 +1,1588 @@
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00817.jpg 216,155,376,203,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00842.jpg 91,258,454,392,1 479,217,554,244,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00134.jpg 751,140,796,239,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00239.jpg 13,11,694,248,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00450.jpg 9,264,973,538,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5102.jpg 1,97,650,336,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00505.jpg 269,621,2647,1450,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00187.jpg 37,333,1142,720,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00240.jpg 890,140,944,212,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00259.jpg 46,119,665,390,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00714.jpg 116,206,588,369,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00329.jpg 212,250,1615,793,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400037.jpg 47,229,1127,540,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00281.jpg 71,128,565,314,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400145.jpg 457,172,1193,639,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00733.jpg 1,240,1171,538,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400083.jpg 798,502,1006,657,5 1466,167,1636,297,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00072.jpg 453,262,747,514,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00262.jpg 791,160,867,257,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00588.jpg 119,369,462,453,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00535.jpg 33,241,1800,836,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00420.jpg 59,65,420,316,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00355.jpg 339,269,1484,1147,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00041.jpg 379,385,598,572,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00139.jpg 882,239,924,336,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00491.jpg 36,464,1578,782,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00168.jpg 920,241,952,317,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00712.jpg 200,281,505,379,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00893.jpg 375,295,603,401,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00167.jpg 896,234,927,307,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00132.jpg 92,115,681,387,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00273.jpg 747,110,799,230,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00300.jpg 661,99,714,149,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00223.jpg 733,128,784,191,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00137.jpg 7,130,596,284,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400049.jpg 600,252,904,321,5 1016,825,1309,980,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00687.jpg 62,319,565,454,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400143.jpg 746,808,948,885,5 801,272,1295,491,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00319.jpg 735,106,772,153,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5106.jpg 15,174,700,393,4 72,243,786,456,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00376.jpg 856,490,5976,3660,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00118.jpg 1,9,616,369,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5060.jpg 26,149,987,454,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400108.jpg 351,495,570,610,5 834,405,1057,522,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00165.jpg 880,240,917,318,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00665.jpg 208,247,572,408,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5113.jpg 82,52,450,237,4 4,103,245,204,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5019.jpg 110,168,770,407,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00180.jpg 871,262,921,380,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5012.jpg 51,122,572,292,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00197.jpg 473,124,490,160,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00853.jpg 264,149,521,294,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00155.jpg 53,110,568,322,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00106.jpg 1,82,590,377,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00200.jpg 469,120,487,157,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400073.jpg 570,374,1597,818,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00065.jpg 56,29,786,304,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5075.jpg 22,90,678,326,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00159.jpg 12,99,589,273,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400116.jpg 1138,544,1184,568,5 1208,537,1261,567,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00421.jpg 111,186,687,410,0 75,120,434,250,0 57,77,319,172,0 27,44,232,121,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00872.jpg 342,207,446,241,0 142,193,411,374,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00198.jpg 71,253,1193,998,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00507.jpg 1,87,479,278,0 146,69,383,147,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5123.jpg 82,204,900,420,4 280,156,812,280,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00027.jpg 63,9,656,315,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00114.jpg 780,159,839,302,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00085.jpg 786,178,883,326,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00836.jpg 286,38,338,71,5 181,83,337,145,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00157.jpg 1,119,585,313,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00186.jpg 770,414,833,555,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400123.jpg 1243,810,1281,828,5 1311,857,1354,878,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400185.jpg 957,632,1440,827,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00839.jpg 371,194,673,302,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00373.jpg 1,177,934,643,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00144.jpg 910,243,952,343,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5030.jpg 27,26,950,674,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00268.jpg 670,113,727,242,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00598.jpg 73,254,522,399,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00054.jpg 189,322,1395,796,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00004.jpg 687,103,797,265,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400099.jpg 295,590,609,690,5 686,428,983,528,5 1018,473,1285,566,5 1431,564,1705,659,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00230.jpg 731,133,781,193,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00549.jpg 402,300,533,344,0 171,300,304,346,0 119,247,244,294,0 56,190,176,234,0 200,157,322,202,0 372,124,488,169,0 303,223,424,271,0 456,200,581,245,0 576,266,704,315,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00080.jpg 123,209,1170,646,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00464.jpg 131,95,730,303,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400170.jpg 118,132,1669,898,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00046.jpg 8,43,567,242,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00221.jpg 176,134,1523,858,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00122.jpg 4,1,667,376,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00792.jpg 141,154,381,258,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00288.jpg 67,22,1112,754,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00393.jpg 98,72,303,241,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00542.jpg 1,116,790,376,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00213.jpg 242,105,292,162,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00532.jpg 66,261,429,381,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400085.jpg 693,450,1185,646,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00283.jpg 371,259,1965,895,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00903.jpg 163,212,556,426,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00326.jpg 67,138,643,459,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00245.jpg 461,126,514,202,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00164.jpg 74,109,461,361,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00055.jpg 1,337,1663,868,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00264.jpg 80,21,1010,637,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00634.jpg 1,229,466,389,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00370.jpg 31,60,900,743,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00286.jpg 63,117,609,379,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400034.jpg 78,936,1608,1278,5 899,689,1992,933,5 1322,561,2208,748,5 1643,429,2357,598,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00263.jpg 735,169,787,255,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00434.jpg 184,108,400,199,0 177,48,351,112,0 1,86,126,143,0 2,191,183,273,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5135.jpg 10,61,220,115,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5076.jpg 4,20,684,228,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00107.jpg 52,81,307,156,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400072.jpg 550,366,1600,819,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00820.jpg 435,110,550,143,0 17,77,434,242,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00314.jpg 733,101,769,147,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00192.jpg 119,1,1170,500,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00400.jpg 113,85,1107,740,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00782.jpg 272,88,490,220,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00089.jpg 807,89,926,315,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00716.jpg 484,326,573,348,0 370,300,486,358,5 160,290,357,374,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400167.jpg 1,91,1919,991,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00149.jpg 1,100,550,365,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00589.jpg 64,349,429,431,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00659.jpg 42,196,609,429,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00428.jpg 32,1,1048,542,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00011.jpg 1,75,487,345,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00064.jpg 37,128,981,554,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400019.jpg 7,164,1013,465,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00567.jpg 59,98,378,195,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00813.jpg 241,171,367,213,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00195.jpg 52,84,1232,523,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00227.jpg 729,145,779,203,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00287.jpg 641,137,698,238,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400156.jpg 229,257,1452,860,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00252.jpg 182,135,797,622,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00288.jpg 639,141,698,246,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00216.jpg 312,108,363,170,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400069.jpg 1022,497,1153,604,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00215.jpg 221,111,273,171,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00245.jpg 113,195,1580,795,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400009.jpg 19,159,1004,495,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00458.jpg 1,127,681,410,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00146.jpg 1,73,202,400,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00028.jpg 148,374,382,580,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5103.jpg 1,160,848,1041,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00154.jpg 1,96,599,310,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00830.jpg 264,48,377,106,5 124,84,299,208,4 342,52,406,70,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00208.jpg 107,137,977,678,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00781.jpg 250,144,454,245,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00759.jpg 189,131,535,229,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00907.jpg 300,309,561,433,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400172.jpg 1,136,1457,507,5 369,727,1447,1013,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00556.jpg 12,156,773,344,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00037.jpg 2,183,422,335,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00613.jpg 100,287,556,445,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00067.jpg 46,32,950,500,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00410.jpg 302,148,907,654,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400103.jpg 444,632,647,698,5 869,548,1074,613,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400109.jpg 673,391,819,487,5 990,335,1134,436,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5137.jpg 95,211,952,435,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00097.jpg 1,45,800,461,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00540.jpg 1,143,761,369,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00804.jpg 171,238,401,330,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00332.jpg 601,537,1755,1115,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5074.jpg 176,138,702,315,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00719.jpg 100,273,579,402,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00750.jpg 124,177,500,274,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00176.jpg 144,34,679,605,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00148.jpg 869,242,911,343,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5144.jpg 34,47,354,135,4 352,43,653,123,4 179,148,563,256,4 338,328,835,475,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00397.jpg 58,28,605,417,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00675.jpg 87,323,394,456,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00561.jpg 1,214,1065,555,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00465.jpg 1,131,763,400,0 709,159,1000,355,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00077.jpg 110,74,1134,587,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00447.jpg 45,15,451,236,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00060.jpg 70,92,1427,738,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00238.jpg 885,145,939,215,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00906.jpg 1,256,124,308,0 162,270,784,501,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400129.jpg 727,439,813,467,5 819,435,903,464,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00008.jpg 10,80,638,253,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00795.jpg 239,165,497,268,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00222.jpg 874,249,2441,1220,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00901.jpg 272,213,513,322,2 1,160,177,230,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00664.jpg 104,224,519,383,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00244.jpg 716,130,774,205,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00869.jpg 330,113,543,241,5 509,135,617,170,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00476.jpg 52,56,433,517,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5143.jpg 82,66,142,94,4 174,91,233,119,4 308,113,365,142,4 346,186,402,210,4 258,222,312,246,4 172,189,227,215,4 57,163,116,191,4 28,105,89,133,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00653.jpg 103,286,534,444,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5051.jpg 211,547,2743,1247,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00371.jpg 1,6,640,451,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5069.jpg 142,145,1442,951,4 437,112,1256,354,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00025.jpg 18,74,526,349,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00626.jpg 57,269,390,433,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00333.jpg 38,23,553,318,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00851.jpg 261,310,829,465,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00802.jpg 66,282,403,430,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00284.jpg 67,152,652,342,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00278.jpg 603,94,653,216,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00210.jpg 85,216,1280,720,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00083.jpg 31,11,824,536,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00273.jpg 104,149,1278,853,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00460.jpg 321,347,873,689,0 1568,211,2240,661,0 2476,64,3135,519,0 2368,875,2998,1328,0 1354,1069,2023,1514,0 2201,1600,2782,2319,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00221.jpg 730,133,781,194,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00003.jpg 684,80,791,248,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400031.jpg 68,101,780,367,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00484.jpg 30,204,752,422,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00293.jpg 657,122,710,216,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00214.jpg 231,108,281,167,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5021.jpg 79,836,3192,1665,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00240.jpg 56,45,609,200,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5064.jpg 79,131,998,531,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00111.jpg 20,94,529,293,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5088.jpg 16,156,790,444,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00121.jpg 5,44,683,373,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00142.jpg 892,243,932,340,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00844.jpg 154,286,537,469,1 684,234,796,277,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00132.jpg 783,136,825,236,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00057.jpg 629,360,838,551,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00232.jpg 741,123,793,184,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00301.jpg 675,106,719,154,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5105.jpg 132,6,983,672,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5004.jpg 6,78,443,227,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00858.jpg 249,130,670,401,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00171.jpg 66,222,1172,593,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00595.jpg 34,283,607,402,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00884.jpg 261,350,696,557,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00545.jpg 1,106,709,377,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00838.jpg 131,77,282,132,4 253,93,289,115,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00083.jpg 776,135,905,284,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00412.jpg 57,43,612,198,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00118.jpg 805,182,866,329,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00401.jpg 12,9,694,246,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00529.jpg 87,120,459,245,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00250.jpg 89,103,1267,672,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00579.jpg 1,336,523,477,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00388.jpg 16,35,663,288,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00141.jpg 885,244,927,343,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00732.jpg 1,246,1191,462,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00169.jpg 942,240,973,317,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00017.jpg 521,313,805,562,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400158.jpg 527,447,1515,733,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5042.jpg 1,250,1534,713,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00272.jpg 795,115,833,236,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400142.jpg 698,610,871,679,5 858,396,1251,562,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00125.jpg 779,152,830,276,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00762.jpg 115,193,523,324,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00276.jpg 715,100,756,218,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400110.jpg 767,363,883,453,5 1028,319,1143,415,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00751.jpg 263,95,590,184,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00440.jpg 194,62,831,681,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00316.jpg 739,100,777,147,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00123.jpg 1,40,596,294,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400176.jpg 203,456,1827,987,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00707.jpg 231,274,450,358,2 558,299,640,347,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00383.jpg 61,106,803,637,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00509.jpg 56,29,322,237,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00066.jpg 530,403,853,712,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00677.jpg 81,331,423,439,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00173.jpg 1,34,700,426,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00141.jpg 1,98,533,352,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00128.jpg 831,142,877,249,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00063.jpg 551,342,814,575,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5083.jpg 94,206,817,428,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400096.jpg 103,461,616,713,5 412,134,866,257,5 1083,571,1489,703,5 1562,629,1920,760,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00131.jpg 800,139,844,238,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00565.jpg 23,98,647,317,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00826.jpg 302,76,383,104,0 136,60,320,165,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00263.jpg 2,4,677,341,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00128.jpg 1,113,592,350,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00437.jpg 1,146,697,359,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00629.jpg 246,306,571,484,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400150.jpg 822,367,1373,582,5 1127,817,1231,851,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00285.jpg 7,5,439,158,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00018.jpg 510,315,792,559,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00149.jpg 819,242,857,337,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00147.jpg 19,128,589,300,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00498.jpg 1,128,764,364,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00850.jpg 118,285,708,451,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400029.jpg 75,165,1197,631,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00461.jpg 10,18,494,209,0 135,2,349,74,0 341,1,500,53,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00354.jpg 154,220,692,419,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00623.jpg 389,403,464,423,0 152,340,437,501,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00190.jpg 41,325,1167,621,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00160.jpg 891,252,927,341,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00274.jpg 718,112,761,228,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5130.jpg 24,134,581,326,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400107.jpg 358,562,553,648,5 801,486,996,574,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00075.jpg 380,226,616,418,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00892.jpg 374,301,595,405,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400175.jpg 393,360,1639,825,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00899.jpg 313,379,524,477,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5025.jpg 94,156,1262,728,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00760.jpg 134,172,477,274,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00692.jpg 94,363,398,465,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00472.jpg 16,122,280,268,0 228,394,482,531,0 489,196,758,342,0 883,238,1145,380,0 644,449,896,577,0 392,651,632,770,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00299.jpg 666,105,718,179,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00766.jpg 187,267,615,388,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400140.jpg 530,305,657,356,5 997,302,1210,390,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00070.jpg 519,281,855,576,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00417.jpg 112,715,4030,2118,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00292.jpg 1,297,1380,753,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00119.jpg 206,134,533,235,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00209.jpg 1,243,892,537,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00224.jpg 734,131,785,193,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00035.jpg 660,362,865,543,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00320.jpg 736,106,774,151,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00225.jpg 40,186,958,865,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00676.jpg 100,324,428,435,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00302.jpg 675,104,711,149,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00127.jpg 194,164,512,271,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00681.jpg 1,370,446,483,1 1,350,91,386,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5063.jpg 1,260,1276,696,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00113.jpg 34,87,519,269,1 132,95,361,168,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00523.jpg 1,80,1258,497,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00357.jpg 123,184,1567,915,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00730.jpg 167,256,1111,477,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00302.jpg 17,210,1886,942,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00605.jpg 7,256,599,443,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00242.jpg 914,126,970,200,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00182.jpg 263,319,1173,664,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00254.jpg 517,142,579,234,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5043.jpg 1,220,617,410,4 66,137,635,295,4 159,73,599,197,4 226,27,599,136,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00113.jpg 790,163,845,302,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00219.jpg 728,131,778,191,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00645.jpg 46,369,336,510,4 319,379,472,442,5 451,398,512,416,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00492.jpg 286,123,879,535,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400135.jpg 922,660,1321,918,5 1185,429,1591,705,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400154.jpg 683,401,1169,602,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00503.jpg 182,223,841,479,0 773,249,1288,432,0 1147,261,1544,420,0 1385,279,1720,399,0 3020,223,3952,517,0 2835,266,3437,459,0 1657,293,1830,389,0 1755,297,1924,376,0 1885,305,1985,376,0 2778,289,3077,425,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00479.jpg 45,390,239,472,0 165,401,401,507,0 339,387,791,587,0 392,397,690,497,0 673,394,896,495,0 826,387,1008,464,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00344.jpg 91,13,968,556,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400093.jpg 750,464,1131,632,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00012.jpg 517,378,888,720,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00306.jpg 1,114,507,324,2 129,82,459,199,2 201,52,435,140,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400007.jpg 35,378,1550,794,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00463.jpg 267,612,2650,1448,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00218.jpg 650,127,700,185,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00015.jpg 1,50,588,352,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00011.jpg 524,370,889,717,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00218.jpg 1,211,1023,604,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400147.jpg 367,106,1500,1014,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00819.jpg 343,121,464,166,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400066.jpg 723,533,1043,725,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00846.jpg 1,283,584,477,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00566.jpg 106,355,1798,796,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00060.jpg 644,245,829,426,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00686.jpg 1,335,525,470,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00368.jpg 23,240,593,484,2 421,270,750,460,2 602,288,879,451,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00153.jpg 1,106,599,294,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00174.jpg 914,253,952,338,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00744.jpg 179,166,396,244,1 530,135,619,158,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00693.jpg 77,342,384,442,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00429.jpg 1,19,203,113,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00322.jpg 98,23,456,373,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00131.jpg 123,147,445,325,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00691.jpg 118,367,419,476,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00883.jpg 215,275,576,442,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400197.jpg 54,196,660,342,5 31,62,652,211,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00800.jpg 146,265,408,404,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00047.jpg 112,398,325,578,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400163.jpg 1,171,1580,853,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00336.jpg 13,51,220,145,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00177.jpg 852,254,894,352,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00742.jpg 209,146,534,283,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00106.jpg 773,204,838,363,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5058.jpg 20,88,586,266,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00510.jpg 63,103,353,189,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00389.jpg 1,101,600,321,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00889.jpg 311,325,577,417,4 186,329,299,363,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00085.jpg 10,1,435,279,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00636.jpg 1,265,563,433,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00086.jpg 775,194,884,339,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00170.jpg 951,252,989,331,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00319.jpg 28,19,541,290,2 314,270,550,358,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00217.jpg 570,117,619,176,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00151.jpg 778,209,816,303,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00117.jpg 1,111,595,312,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00718.jpg 241,301,523,400,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5072.jpg 15,44,887,485,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00369.jpg 267,245,1132,617,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400056.jpg 912,467,1216,590,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00910.jpg 189,190,497,289,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5094.jpg 522,1302,5578,2734,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00657.jpg 95,202,439,376,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400088.jpg 769,437,1342,672,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00390.jpg 6,94,607,295,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00406.jpg 38,149,654,498,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00784.jpg 264,103,518,269,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00166.jpg 1,41,500,312,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00058.jpg 678,341,858,536,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00375.jpg 41,81,617,548,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00036.jpg 752,370,959,554,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400114.jpg 1239,666,1306,710,5 1339,657,1408,697,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00663.jpg 121,196,566,358,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00806.jpg 49,280,272,359,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00000.jpg 692,15,788,179,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00427.jpg 51,314,373,437,0 296,307,731,487,0 619,326,944,454,0 196,318,388,396,0 577,326,773,396,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00158.jpg 10,144,584,289,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00557.jpg 152,2290,2362,3461,0 902,1783,2341,2319,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400173.jpg 459,195,1715,814,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00564.jpg 54,122,1013,501,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00886.jpg 342,354,634,492,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00773.jpg 170,141,546,305,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400008.jpg 285,576,3158,1731,5 192,1189,1084,1548,5 178,1299,675,1516,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00002.jpg 687,53,791,204,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00477.jpg 124,8,2284,532,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00398.jpg 142,709,3951,2230,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00823.jpg 413,123,522,160,0 68,97,426,260,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00053.jpg 764,464,955,643,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00280.jpg 520,96,564,221,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00069.jpg 529,279,874,582,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400199.jpg 10,246,936,538,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00203.jpg 427,101,458,141,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00185.jpg 12,56,282,129,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00007.jpg 609,166,867,372,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00652.jpg 128,270,451,434,4 356,305,425,349,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00591.jpg 1,294,420,411,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00512.jpg 7,94,937,389,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00723.jpg 1,301,636,483,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400048.jpg 862,422,1177,506,5 1131,910,1431,1071,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00228.jpg 157,63,1830,1005,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00791.jpg 69,137,447,285,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00231.jpg 203,34,964,626,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00032.jpg 12,38,595,400,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5065.jpg 7,106,721,331,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00896.jpg 313,294,524,356,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00769.jpg 174,142,572,330,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00508.jpg 19,17,686,371,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5026.jpg 168,20,1316,1052,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00593.jpg 46,292,584,433,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400047.jpg 1065,448,1353,583,5 1194,892,1489,1048,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00172.jpg 212,64,843,361,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00748.jpg 4,205,397,319,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00289.jpg 640,136,701,244,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400025.jpg 87,70,915,427,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00315.jpg 737,100,774,147,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00048.jpg 112,421,327,607,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00380.jpg 60,121,1396,967,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400024.jpg 48,268,1173,536,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00572.jpg 20,46,194,107,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5097.jpg 8,23,513,226,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00539.jpg 74,191,717,352,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5108.jpg 1,52,1024,631,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00192.jpg 506,503,575,672,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00095.jpg 104,91,1358,736,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00674.jpg 148,336,453,446,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00211.jpg 1,76,1024,628,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00875.jpg 113,239,842,509,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00394.jpg 92,37,663,217,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00521.jpg 1,1,354,133,0 75,1,308,61,0 122,1,288,37,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00061.jpg 8,46,1592,704,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00185.jpg 797,330,854,466,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00520.jpg 33,261,1300,682,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00266.jpg 673,108,725,243,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00184.jpg 28,117,702,423,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00867.jpg 113,189,586,361,4 713,172,856,282,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00033.jpg 282,375,493,558,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5016.jpg 393,296,2272,3633,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00738.jpg 228,171,538,317,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400133.jpg 760,540,1027,629,5 1008,448,1284,544,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00416.jpg 206,388,1725,860,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00793.jpg 1,1,275,85,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400187.jpg 700,386,1699,735,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400045.jpg 377,298,1887,763,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00843.jpg 252,226,569,345,1 693,199,798,227,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00161.jpg 885,256,922,343,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400046.jpg 332,629,1138,942,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00321.jpg 1,778,1400,1619,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400054.jpg 851,488,1119,601,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400012.jpg 15,188,984,437,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00168.jpg 202,580,1402,1000,1 160,270,946,515,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00445.jpg 103,355,1800,804,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00618.jpg 201,338,473,472,5 420,377,544,406,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400180.jpg 844,751,1471,1013,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00222.jpg 733,131,784,192,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00361.jpg 197,97,543,237,2 422,184,620,270,2 172,236,357,303,2 1,265,241,351,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00022.jpg 417,430,684,681,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00035.jpg 147,35,607,340,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00229.jpg 53,160,1591,880,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00205.jpg 399,95,429,138,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00449.jpg 11,76,487,242,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00894.jpg 446,265,578,302,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00311.jpg 27,106,690,438,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00143.jpg 13,159,584,314,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00531.jpg 9,9,464,374,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00775.jpg 157,162,500,305,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00009.jpg 156,180,537,327,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00068.jpg 9,68,400,219,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400064.jpg 301,465,1208,786,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00226.jpg 730,144,779,204,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00006.jpg 47,53,283,207,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00568.jpg 1,87,2531,1216,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00317.jpg 737,103,775,149,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00860.jpg 370,188,445,211,0 299,194,406,242,5 154,208,360,319,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00339.jpg 242,191,1920,815,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00144.jpg 12,96,589,274,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00717.jpg 248,311,443,393,4 453,313,591,379,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00223.jpg 120,147,486,248,1 220,331,570,431,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00228.jpg 729,137,778,196,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00887.jpg 340,272,695,384,5 223,271,342,308,4 165,249,240,272,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00454.jpg 23,186,1257,590,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00796.jpg 162,203,515,347,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00737.jpg 264,66,594,224,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00880.jpg 371,236,593,327,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00633.jpg 1,236,521,376,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00709.jpg 155,320,435,438,2 396,374,454,403,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00897.jpg 416,397,633,522,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400177.jpg 490,518,1765,997,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00272.jpg 29,25,1100,609,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00721.jpg 185,317,482,412,5 509,359,639,395,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00206.jpg 381,92,411,137,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00248.jpg 529,137,582,214,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00159.jpg 896,249,933,339,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400059.jpg 981,513,1373,679,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00313.jpg 731,100,770,145,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00305.jpg 583,97,620,142,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00001.jpg 23,41,494,344,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00068.jpg 539,280,880,583,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400168.jpg 107,605,1502,1014,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00071.jpg 501,277,816,553,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00407.jpg 49,79,568,345,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00515.jpg 46,138,444,248,0 155,108,408,177,0 251,47,388,134,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00418.jpg 77,234,849,445,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00656.jpg 26,244,640,427,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400094.jpg 161,137,1165,379,5 683,640,1920,944,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5028.jpg 136,12,1103,701,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00126.jpg 799,152,847,268,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00039.jpg 603,389,816,574,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00771.jpg 139,150,450,297,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00715.jpg 251,301,436,362,4 397,302,514,347,5 497,323,567,338,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00014.jpg 13,31,534,356,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00101.jpg 1001,62,1134,313,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400119.jpg 1043,848,1123,883,5 1155,866,1249,902,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00026.jpg 94,79,395,309,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00050.jpg 32,87,576,348,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00743.jpg 265,149,471,227,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00321.jpg 737,106,776,153,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400036.jpg 1,156,616,316,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00710.jpg 156,322,439,429,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00377.jpg 117,251,977,557,2 487,205,920,359,2 582,173,903,281,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00029.jpg 1,78,589,333,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00203.jpg 22,250,1585,775,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00156.jpg 10,146,583,304,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400038.jpg 55,171,725,409,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00081.jpg 494,142,588,289,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00308.jpg 34,45,630,310,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00702.jpg 5,219,501,440,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00304.jpg 586,100,624,145,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00258.jpg 9,139,583,362,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00396.jpg 19,101,487,340,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5062.jpg 56,120,958,407,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00042.jpg 316,400,540,593,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400120.jpg 1072,873,1154,907,5 1180,888,1276,926,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400192.jpg 435,490,1144,732,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400076.jpg 100,517,384,624,5 578,426,861,526,5 872,353,1191,463,5 1249,541,1603,656,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00763.jpg 78,253,490,420,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00005.jpg 682,116,817,283,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5104.jpg 89,277,1368,646,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5093.jpg 28,106,972,500,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00881.jpg 274,260,620,461,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00242.jpg 55,85,758,349,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00863.jpg 336,173,632,345,4 713,120,856,236,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00432.jpg 32,228,1141,480,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400148.jpg 800,360,1186,514,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00513.jpg 1,71,983,441,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5034.jpg 283,223,1247,525,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00658.jpg 215,251,548,413,4 423,293,568,367,5 558,332,603,354,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400196.jpg 345,378,1749,840,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400074.jpg 80,110,1863,922,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00179.jpg 133,145,2002,1245,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00015.jpg 533,359,841,644,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00251.jpg 532,139,591,221,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00049.jpg 165,447,385,640,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400001.jpg 24,201,1119,591,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00483.jpg 143,414,3388,2297,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00643.jpg 37,301,323,426,4 346,311,504,386,5 477,342,566,364,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400027.jpg 56,250,1529,779,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00105.jpg 777,212,844,375,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00873.jpg 303,104,445,146,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00749.jpg 131,195,490,312,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00049.jpg 8,125,584,318,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00024.jpg 8,80,579,315,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5057.jpg 105,243,650,360,4 109,115,716,247,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00028.jpg 7,15,720,374,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400021.jpg 98,224,1516,608,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400126.jpg 471,369,500,394,5 1002,358,1030,385,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00746.jpg 135,136,391,231,1 432,99,481,118,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00797.jpg 323,167,543,271,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00602.jpg 174,362,542,466,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00209.jpg 324,94,350,142,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00689.jpg 97,325,452,440,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00234.jpg 17,73,337,255,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00563.jpg 105,20,386,90,0 12,65,378,193,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00142.jpg 12,101,598,312,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00034.jpg 429,386,638,569,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00238.jpg 33,64,428,405,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00666.jpg 221,247,570,383,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00482.jpg 137,150,1034,416,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5100.jpg 116,114,555,243,4 39,121,372,230,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5098.jpg 223,119,1221,553,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00052.jpg 1,53,585,353,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00232.jpg 80,107,622,404,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00462.jpg 22,110,628,308,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00630.jpg 50,223,583,373,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00116.jpg 41,18,655,342,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00587.jpg 42,359,472,454,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5054.jpg 65,127,952,504,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00628.jpg 179,249,511,431,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400016.jpg 15,256,1182,552,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00569.jpg 19,141,778,350,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00859.jpg 138,135,352,230,4 293,113,420,167,5 371,110,439,131,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400198.jpg 22,144,784,385,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00342.jpg 117,315,1874,1131,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00466.jpg 9,181,1004,445,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00266.jpg 89,17,312,192,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5133.jpg 71,77,750,590,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00571.jpg 107,429,1600,915,0 55,273,1353,489,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5121.jpg 31,29,1011,295,4 16,375,1009,645,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00135.jpg 57,88,441,350,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5044.jpg 20,288,1191,647,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00246.jpg 531,128,585,204,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5112.jpg 113,173,768,386,4 175,107,406,169,4 516,124,637,162,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00290.jpg 1,60,699,392,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400086.jpg 73,253,411,806,5 1479,406,1599,582,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00364.jpg 86,71,747,547,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00713.jpg 115,335,348,438,4 359,334,509,404,5 482,365,573,383,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00205.jpg 91,199,947,465,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5151.jpg 1,196,1200,551,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400159.jpg 426,426,1611,737,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00294.jpg 5,111,585,339,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00648.jpg 99,344,399,490,4 305,365,460,426,5 437,386,476,398,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400041.jpg 913,633,1438,837,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00501.jpg 8,73,472,226,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00198.jpg 473,121,491,158,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00007.jpg 135,10,410,279,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00457.jpg 17,34,430,196,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00179.jpg 851,265,898,375,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00275.jpg 699,106,745,221,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00891.jpg 402,308,600,399,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400033.jpg 1,360,893,608,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00309.jpg 863,96,901,143,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00340.jpg 3,61,1080,814,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00878.jpg 103,178,364,269,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00783.jpg 348,136,580,258,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00260.jpg 832,160,910,260,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00902.jpg 143,244,537,475,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00212.jpg 258,101,303,157,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00818.jpg 271,131,426,189,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00739.jpg 269,135,560,281,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5068.jpg 1,116,552,291,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00552.jpg 48,274,1007,559,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00594.jpg 73,285,625,404,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00100.jpg 12,6,398,188,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00468.jpg 8,33,495,209,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400061.jpg 908,568,1388,778,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5049.jpg 12,169,992,473,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00470.jpg 45,209,759,428,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00229.jpg 730,137,782,197,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00701.jpg 65,211,557,427,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00126.jpg 1,92,533,352,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00030.jpg 163,372,386,569,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00040.jpg 468,391,684,575,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5085.jpg 1,182,1000,515,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00868.jpg 359,162,543,260,5 520,184,617,218,0 1,183,250,347,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00343.jpg 1,80,922,437,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00004.jpg 1,66,597,338,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00694.jpg 8,383,312,481,1 474,401,562,428,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00422.jpg 1,176,1000,539,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5096.jpg 12,174,851,412,4 205,40,805,205,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00112.jpg 11,89,573,296,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00058.jpg 141,280,1441,786,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00414.jpg 107,80,996,473,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00790.jpg 134,211,499,338,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00337.jpg 1,79,1114,441,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00130.jpg 808,142,852,242,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00152.jpg 34,172,569,335,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5131.jpg 130,217,577,410,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00559.jpg 18,26,539,227,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00600.jpg 123,213,571,329,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00020.jpg 112,84,424,322,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00699.jpg 122,334,348,397,1 359,333,400,357,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00697.jpg 163,356,412,433,1 463,367,541,394,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5048.jpg 44,191,964,470,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00117.jpg 785,172,845,321,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00311.jpg 740,92,779,140,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400028.jpg 25,108,1023,591,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5145.jpg 14,113,695,322,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00062.jpg 815,399,4552,2095,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5035.jpg 18,194,1010,493,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00054.jpg 819,457,1006,633,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00237.jpg 851,130,906,198,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00776.jpg 177,153,514,278,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00768.jpg 61,241,493,363,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00050.jpg 267,467,488,668,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5099.jpg 33,93,708,312,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00305.jpg 83,98,960,559,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00115.jpg 780,159,842,303,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00871.jpg 150,169,409,319,5 346,188,453,226,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400078.jpg 370,321,992,556,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00519.jpg 19,87,754,315,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00821.jpg 16,117,408,301,5 400,136,512,172,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00312.jpg 733,98,771,145,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00255.jpg 497,145,562,240,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00246.jpg 438,104,990,726,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00624.jpg 108,335,401,511,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400169.jpg 1,75,1645,906,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00143.jpg 900,242,945,344,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400165.jpg 1,99,1919,960,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00093.jpg 913,72,1001,330,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00444.jpg 156,403,1976,993,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00898.jpg 331,410,543,536,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00029.jpg 154,374,383,574,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00187.jpg 739,466,807,622,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00125.jpg 17,155,574,325,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00622.jpg 165,308,432,445,5 401,354,464,376,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00207.jpg 362,89,390,137,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5086.jpg 26,7,768,405,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00310.jpg 10,166,617,463,2 201,138,547,293,2 277,122,534,228,2 341,107,529,177,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00094.jpg 9,126,1177,620,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400068.jpg 1102,454,1240,562,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00041.jpg 10,39,520,321,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00165.jpg 59,25,595,397,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00704.jpg 1,177,490,420,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00274.jpg 146,24,589,478,2 268,93,650,483,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00304.jpg 33,82,640,304,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00137.jpg 731,201,772,301,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00189.jpg 632,521,714,712,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5066.jpg 3,63,551,366,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00764.jpg 128,230,499,338,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00528.jpg 1,74,398,228,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00301.jpg 61,126,485,273,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00455.jpg 53,415,1546,872,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00009.jpg 548,318,882,630,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00724.jpg 1,81,630,436,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00372.jpg 107,321,833,617,2 600,237,950,438,2 418,213,851,362,2 288,193,638,331,2 193,179,546,298,2 101,161,415,273,2 19,154,312,256,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00349.jpg 22,5,509,312,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400152.jpg 780,388,930,537,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00494.jpg 17,24,587,376,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00911.jpg 371,215,708,319,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00500.jpg 47,11,853,403,0 394,480,471,530,0 471,508,554,559,0 552,530,638,586,0 613,491,691,546,0 673,439,749,487,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00347.jpg 32,140,863,424,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00310.jpg 822,93,861,141,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400102.jpg 477,609,629,669,5 895,674,1038,716,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00379.jpg 1,82,604,317,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00003.jpg 1,86,612,324,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00399.jpg 1,110,437,271,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400183.jpg 746,786,981,887,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00847.jpg 9,299,589,544,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400062.jpg 811,596,1365,794,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00824.jpg 177,90,416,204,5 412,115,506,148,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00105.jpg 1,120,585,310,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00103.jpg 802,238,878,426,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00271.jpg 835,117,870,241,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00530.jpg 503,295,619,331,0 369,85,699,189,0 1,303,926,735,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00761.jpg 92,214,499,348,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400065.jpg 246,410,1457,790,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00086.jpg 10,22,543,321,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5141.jpg 192,26,840,700,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00555.jpg 1,227,135,307,0 124,196,231,257,0 219,171,308,220,0 288,153,365,195,0 343,142,412,174,0 385,129,447,160,0 414,123,471,148,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00226.jpg 38,54,768,488,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5017.jpg 35,228,963,436,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00265.jpg 703,115,746,252,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00672.jpg 79,309,407,437,2 325,352,441,386,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400091.jpg 992,478,1170,590,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00436.jpg 70,27,461,234,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00441.jpg 14,189,1024,529,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5010.jpg 66,125,1196,617,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400053.jpg 1086,524,1172,564,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00365.jpg 43,92,856,431,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00825.jpg 94,79,313,198,5 302,98,387,127,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00573.jpg 175,237,418,315,0 49,72,495,239,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00359.jpg 52,17,711,577,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00150.jpg 772,218,811,313,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00363.jpg 22,24,527,341,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00264.jpg 708,122,746,251,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00147.jpg 914,252,957,354,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00312.jpg 443,215,1803,930,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00596.jpg 16,306,590,428,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00328.jpg 15,84,548,308,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400149.jpg 753,425,1116,560,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00081.jpg 157,244,1282,774,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00075.jpg 58,155,1210,670,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00042.jpg 1,78,533,344,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00098.jpg 775,49,860,301,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00276.jpg 1,165,743,427,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00064.jpg 527,383,819,654,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00772.jpg 200,198,526,369,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00471.jpg 54,15,360,419,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00451.jpg 1,94,793,425,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00220.jpg 156,176,796,452,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00706.jpg 1,180,469,442,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00163.jpg 113,48,629,400,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00231.jpg 733,122,788,183,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5041.jpg 52,55,543,270,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00496.jpg 242,231,363,267,0 220,144,320,170,0 343,139,423,159,0 212,80,299,102,0 138,24,221,46,0 448,184,519,205,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00524.jpg 12,11,544,248,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00082.jpg 162,229,895,538,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400193.jpg 380,297,1885,763,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00801.jpg 135,243,444,400,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00517.jpg 115,199,1074,445,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00612.jpg 101,270,559,414,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00829.jpg 120,1,308,94,4 276,1,405,36,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00145.jpg 27,77,601,337,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00284.jpg 634,119,689,229,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5013.jpg 336,69,680,171,4 66,86,411,197,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5120.jpg 80,283,1024,604,4 1,214,594,406,4 1,179,384,315,4 1,162,260,264,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00865.jpg 309,243,777,479,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00039.jpg 16,137,579,303,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00616.jpg 410,367,533,401,0 192,329,418,459,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400195.jpg 801,414,1635,763,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400011.jpg 24,179,1169,539,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00036.jpg 97,75,458,304,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00256.jpg 150,172,866,446,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00278.jpg 135,139,960,488,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00018.jpg 1,22,585,303,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5031.jpg 56,21,542,878,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00286.jpg 641,135,698,235,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00247.jpg 39,186,952,844,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00514.jpg 14,229,3346,1816,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00071.jpg 15,74,795,392,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5022.jpg 161,336,1743,817,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00443.jpg 161,52,1119,716,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00360.jpg 317,71,1181,784,2 168,78,509,282,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00835.jpg 328,85,501,157,4 442,35,503,71,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00726.jpg 28,281,534,424,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00261.jpg 25,182,383,415,2 357,90,760,365,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00087.jpg 99,86,923,484,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00235.jpg 795,128,848,193,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00625.jpg 32,285,366,457,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400015.jpg 481,495,2644,1083,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00537.jpg 42,245,1000,607,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5018.jpg 471,99,1202,800,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00809.jpg 90,204,264,261,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00122.jpg 754,156,808,290,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00745.jpg 177,162,389,238,1 539,132,621,155,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00815.jpg 184,132,331,179,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00353.jpg 27,90,576,332,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00019.jpg 22,78,482,304,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00827.jpg 136,43,320,149,5 290,68,369,96,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00290.jpg 646,131,704,234,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00196.jpg 473,122,491,159,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00038.jpg 775,371,986,561,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00115.jpg 1,28,533,384,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00055.jpg 1133,425,1280,631,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00279.jpg 1,1,600,248,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00031.jpg 69,91,692,359,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00327.jpg 31,89,547,267,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5089.jpg 149,222,908,627,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00475.jpg 32,174,949,452,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00047.jpg 73,72,418,305,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00452.jpg 8,21,489,334,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5092.jpg 64,146,948,362,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400080.jpg 546,303,711,626,5 1007,233,1107,442,5 1220,266,1323,401,5 1415,333,1505,397,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00092.jpg 16,27,674,342,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00583.jpg 5,304,640,486,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400194.jpg 1003,449,1677,745,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00753.jpg 191,120,513,210,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00617.jpg 409,406,537,444,0 192,367,419,502,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00136.jpg 727,192,767,289,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00211.jpg 279,98,308,152,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00810.jpg 189,218,344,274,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00096.jpg 13,9,630,299,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00442.jpg 292,313,1027,534,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00577.jpg 40,265,693,460,0 336,283,815,430,0 510,297,887,412,0 627,307,937,402,0 703,318,968,393,0 762,317,987,391,0 808,321,1010,384,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00814.jpg 225,159,366,201,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00585.jpg 57,279,603,400,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00166.jpg 885,236,916,313,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00404.jpg 118,154,579,334,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00291.jpg 48,51,773,375,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00127.jpg 828,150,875,261,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00212.jpg 267,374,1892,873,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00292.jpg 655,127,710,224,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5114.jpg 89,215,599,343,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5053.jpg 389,122,537,184,4 1,192,698,414,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00243.jpg 807,121,862,198,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5008.jpg 40,33,1200,707,4 1,198,595,493,4 1,140,522,386,4 1,59,186,243,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00289.jpg 127,27,307,175,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00448.jpg 1,168,984,454,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00255.jpg 55,1,582,378,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00277.jpg 735,98,788,218,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00236.jpg 819,130,872,196,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00249.jpg 530,140,585,219,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00586.jpg 37,315,533,423,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00405.jpg 110,71,586,631,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00162.jpg 883,253,919,337,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00499.jpg 1,160,800,403,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5077.jpg 446,257,666,383,4 81,272,298,403,4 97,56,519,206,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00188.jpg 696,502,769,673,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00259.jpg 908,164,988,261,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00193.jpg 3,4,492,235,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400184.jpg 719,660,1092,825,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00057.jpg 1,70,800,453,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00175.jpg 83,224,803,477,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00794.jpg 136,131,492,275,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00734.jpg 213,188,534,301,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00885.jpg 287,374,634,570,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00230.jpg 91,3,336,303,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00619.jpg 373,376,492,404,0 166,337,410,467,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5050.jpg 223,990,1425,1363,4 598,906,1523,1186,4 1446,577,2348,925,4 1419,304,2494,733,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00758.jpg 208,149,558,248,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00249.jpg 42,148,653,498,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00541.jpg 1,146,978,500,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00533.jpg 159,222,1044,522,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00234.jpg 776,129,828,192,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00133.jpg 767,132,806,230,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5015.jpg 39,29,531,373,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400022.jpg 314,372,1847,1145,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00668.jpg 109,297,456,431,2 522,328,640,376,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00807.jpg 127,233,324,301,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00059.jpg 31,221,1354,773,6 927,212,1746,570,6 1313,197,1927,466,6 994,187,1345,332,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00495.jpg 100,93,548,254,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00649.jpg 87,359,401,484,4 296,360,441,424,5 414,385,449,399,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00459.jpg 1,427,820,1060,0 264,450,975,871,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00607.jpg 13,272,519,452,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5001.jpg 29,18,1139,764,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00084.jpg 18,16,1572,746,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00155.jpg 885,209,925,303,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00615.jpg 186,300,424,409,5 416,343,532,377,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00680.jpg 11,376,397,478,1 44,356,101,392,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00554.jpg 16,89,494,248,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00504.jpg 7,164,1011,463,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400160.jpg 331,391,1684,725,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00119.jpg 808,169,862,311,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00637.jpg 35,240,640,416,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00696.jpg 528,392,610,421,2 169,385,435,468,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00153.jpg 860,204,899,295,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00576.jpg 7,24,631,253,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00010.jpg 530,348,890,685,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00023.jpg 327,410,582,643,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00148.jpg 14,117,575,334,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00073.jpg 416,251,688,477,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5095.jpg 12,92,332,223,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00208.jpg 341,91,372,138,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00611.jpg 134,248,597,384,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400003.jpg 56,347,1541,748,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00650.jpg 179,369,487,522,4 375,390,498,455,5 496,417,533,429,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400005.jpg 280,377,1666,702,5 900,155,1861,366,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00516.jpg 1,156,1009,455,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00908.jpg 213,227,498,322,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00067.jpg 543,374,874,683,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5101.jpg 5,85,1200,721,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00001.jpg 689,48,795,197,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00174.jpg 199,202,1037,664,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00130.jpg 57,42,496,373,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00323.jpg 48,49,419,261,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00877.jpg 1,307,678,545,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00787.jpg 267,128,542,272,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5153.jpg 40,81,332,168,4 312,34,579,110,4 216,201,548,303,4 439,367,834,497,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00356.jpg 27,52,444,187,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00786.jpg 298,112,557,254,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00164.jpg 877,243,911,323,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00511.jpg 56,27,453,119,0 126,171,377,236,0 163,251,343,300,0 197,305,340,349,0 210,343,325,375,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00387.jpg 56,160,1593,879,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5150.jpg
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00088.jpg 795,184,922,347,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5138.jpg 1,56,220,105,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00895.jpg 433,334,632,399,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00690.jpg 142,352,453,466,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00095.jpg 712,72,824,332,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00181.jpg 893,256,943,383,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00592.jpg 39,281,519,418,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5032.jpg 44,180,552,301,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5128.jpg 7,253,543,407,4 173,47,599,160,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00909.jpg 319,245,624,344,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00173.jpg 932,257,970,336,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5036.jpg 175,166,1146,566,4 27,271,451,529,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00219.jpg 1,1,1000,478,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00163.jpg 878,251,911,332,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00900.jpg 238,403,547,608,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00244.jpg 208,200,1431,1017,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00822.jpg 426,119,536,155,0 68,103,430,269,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00090.jpg 16,169,1600,811,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00258.jpg 979,173,1061,271,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00754.jpg 113,110,426,195,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400035.jpg 53,202,882,378,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400174.jpg 465,255,1666,807,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5038.jpg 262,252,905,480,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00096.jpg 676,73,768,333,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400157.jpg 92,186,1690,1051,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5011.jpg 101,220,1088,619,4 83,108,648,339,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00156.jpg 892,218,929,309,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00098.jpg 53,87,762,378,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00640.jpg 116,256,637,398,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00570.jpg 64,101,512,350,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00683.jpg 23,386,610,520,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400071.jpg 496,368,1562,820,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00725.jpg 1,250,609,436,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00620.jpg 119,331,391,465,5 328,369,443,394,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400043.jpg 818,616,1514,859,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5020.jpg 14,124,2124,1392,4 1,53,2119,645,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00197.jpg 1,185,1280,629,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00110.jpg 825,177,884,319,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00882.jpg 364,368,646,479,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00048.jpg 1,115,576,325,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00538.jpg 1,104,473,313,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00260.jpg 11,55,320,162,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00031.jpg 185,368,401,554,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00755.jpg 113,152,441,227,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00070.jpg 24,73,753,431,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5045.jpg
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00473.jpg 261,178,1006,379,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00100.jpg 917,61,1010,314,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00731.jpg 17,403,1197,611,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00670.jpg 131,333,467,470,2 460,370,585,411,4 542,366,585,390,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00439.jpg 772,157,3484,2209,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00298.jpg 673,106,727,180,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00235.jpg 136,715,3948,2245,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00341.jpg 169,160,1182,895,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00012.jpg 1,74,597,400,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00191.jpg 543,519,627,704,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00063.jpg 111,117,1052,789,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00129.jpg 106,96,730,265,1 434,252,520,278,1 422,305,558,340,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00816.jpg 287,155,425,196,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400101.jpg 501,488,617,538,5 828,593,945,635,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5033.jpg 1,1,1279,620,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400077.jpg 266,560,525,648,5 662,475,916,563,5 975,423,1254,522,5 1333,570,1639,664,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00162.jpg 25,124,527,292,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00193.jpg 474,493,540,655,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400087.jpg 1488,413,1674,627,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00778.jpg 159,138,376,214,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00102.jpg 57,100,714,387,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00551.jpg 3,115,1002,551,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400125.jpg 958,559,980,586,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00864.jpg 404,192,675,365,4 742,120,856,233,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00639.jpg 1,281,560,426,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00526.jpg 14,25,451,348,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00635.jpg 1,277,571,437,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00861.jpg 391,240,659,451,4 634,188,854,296,5 782,197,856,236,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00799.jpg 1,343,281,471,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00087.jpg 785,203,881,347,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00084.jpg 791,135,881,287,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00275.jpg 11,27,516,233,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400153.jpg 850,363,1005,514,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00250.jpg 532,143,587,222,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00066.jpg 45,21,685,331,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400052.jpg 1083,512,1163,557,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5079.jpg 120,123,1832,548,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00283.jpg 615,94,670,225,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00828.jpg 148,60,295,134,5 270,80,339,108,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00109.jpg 5,103,589,314,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5118.jpg 1,59,576,363,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5009.jpg 30,679,1346,1107,4 109,277,1147,607,4 808,79,1785,358,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00017.jpg 95,61,533,396,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00317.jpg 23,101,1949,1092,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00695.jpg 98,374,391,469,1 507,382,592,411,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00642.jpg 196,266,485,368,4 528,263,640,345,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5129.jpg 1,50,444,199,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400128.jpg 678,378,756,406,5 769,373,847,396,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00423.jpg 1,13,464,431,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400023.jpg 11,116,381,208,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00469.jpg 22,58,284,144,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00351.jpg 1,16,942,492,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00621.jpg 1,357,303,501,5 203,404,323,424,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400136.jpg 1108,459,1603,800,5 1362,120,1878,503,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00016.jpg 27,43,679,337,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00402.jpg 219,292,2560,1390,2 219,203,1062,762,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00409.jpg 66,97,600,329,2 6,131,359,286,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00034.jpg 234,77,504,185,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00756.jpg 145,143,474,221,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00560.jpg 100,375,1024,682,0 1,386,659,515,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00269.jpg 145,92,468,337,2 34,10,375,298,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00043.jpg 41,80,587,336,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00024.jpg 262,389,504,612,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00026.jpg 187,374,421,583,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00056.jpg 71,69,1417,704,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00580.jpg 26,344,640,505,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00345.jpg 70,222,1511,741,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00679.jpg 102,344,409,424,1 153,317,185,344,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00270.jpg 531,1,1006,295,2 208,92,614,350,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400162.jpg 71,98,1858,916,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5124.jpg 127,292,1931,1145,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00849.jpg 122,319,538,449,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00488.jpg 39,544,3072,1677,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5115.jpg 1,45,355,175,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00297.jpg 673,104,728,181,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00251.jpg 1,174,563,368,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00010.jpg 8,45,698,308,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00114.jpg 56,152,707,371,1 1,244,120,286,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00446.jpg 150,86,795,372,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5147.jpg 263,135,877,416,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00590.jpg 76,305,451,402,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00303.jpg 57,1,338,212,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5014.jpg 33,108,650,327,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00803.jpg 183,254,401,348,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00527.jpg 2,23,215,111,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00150.jpg 18,143,736,426,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00204.jpg 35,222,1857,778,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00627.jpg 183,282,523,454,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400134.jpg 1035,642,1273,742,5 1228,545,1471,653,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00550.jpg 35,104,765,380,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00124.jpg 64,165,528,314,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00313.jpg 21,153,911,495,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00845.jpg 97,277,622,494,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00002.jpg 4,110,596,324,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5136.jpg 135,1,524,172,4 856,46,1063,196,4 469,241,742,395,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5040.jpg 23,34,518,306,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00189.jpg 97,683,2843,1642,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00253.jpg 528,138,590,228,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400098.jpg 334,544,704,671,5 761,352,1093,471,5 1090,449,1384,557,5 1581,541,1870,660,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00201.jpg 1,46,1000,646,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00077.jpg 446,126,542,289,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5023.jpg 37,37,812,470,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00808.jpg 131,231,326,295,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400182.jpg 834,889,1119,1014,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00099.jpg 22,149,1481,797,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00074.jpg 393,237,646,446,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00811.jpg 247,194,393,243,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00079.jpg 448,135,548,286,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400179.jpg 930,691,1659,1009,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00435.jpg 51,194,1112,499,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00603.jpg 130,351,472,436,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400106.jpg 327,606,531,682,5 787,569,995,649,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00107.jpg 753,202,817,354,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00660.jpg 126,202,575,365,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00293.jpg 1,137,957,518,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400070.jpg 923,528,1056,624,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00196.jpg 2,32,667,305,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00581.jpg 110,284,625,418,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00426.jpg 20,114,487,273,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00241.jpg 900,134,954,205,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400190.jpg 262,631,1573,927,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00502.jpg 206,59,520,217,0 353,139,655,292,0 488,314,700,423,0 1,351,176,467,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00200.jpg 55,45,661,437,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5055.jpg 491,332,689,594,4 468,222,616,374,4 637,56,689,102,4 578,38,632,84,4 532,61,589,107,4 292,257,462,442,4 198,219,351,377,4 93,191,250,343,4 14,167,166,292,4 159,124,266,221,4 241,136,370,238,4 619,206,764,361,4 730,174,872,307,4 693,310,891,541,4 814,256,982,443,4 834,151,976,281,4 927,133,1047,247,4 997,117,1127,229,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400151.jpg 778,517,1273,697,5 1034,797,1140,835,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00874.jpg 145,202,645,452,5 692,210,856,256,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00474.jpg 39,252,1241,544,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00194.jpg 470,116,498,153,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00146.jpg 932,238,975,341,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00120.jpg 792,165,846,302,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00097.jpg 710,53,798,315,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00314.jpg 141,140,640,400,2 89,59,311,181,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00253.jpg 112,495,2312,1433,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00350.jpg 19,6,659,307,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400191.jpg 188,597,1522,940,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00220.jpg 731,133,782,192,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00661.jpg 113,242,570,405,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400164.jpg 1,1,1919,987,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00324.jpg 29,26,684,279,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00287.jpg 7,86,697,361,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00315.jpg 1,133,910,414,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400117.jpg 1234,829,1305,859,5 1338,851,1417,884,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400067.jpg 643,455,1000,693,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00296.jpg 672,121,721,194,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00175.jpg 894,250,933,337,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00051.jpg 441,602,664,720,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00016.jpg 525,336,826,608,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00854.jpg 207,168,559,367,2 606,152,747,197,4 683,122,806,154,5 759,114,831,135,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00233.jpg 1,138,972,627,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00789.jpg 95,193,488,300,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00074.jpg 71,138,959,500,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00044.jpg 202,399,414,584,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5006.jpg 29,56,1214,646,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00403.jpg 17,72,337,257,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400131.jpg 765,549,967,613,5 978,532,1179,598,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00411.jpg 131,184,1146,601,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00855.jpg 270,158,593,383,2 727,134,856,204,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00204.jpg 416,99,448,140,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00216.jpg 275,357,674,498,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00123.jpg 740,161,791,291,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00025.jpg 218,383,452,588,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00099.jpg 820,47,919,304,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400127.jpg 79,278,107,299,5 670,219,704,245,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00136.jpg 44,10,538,390,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00480.jpg 15,73,696,278,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00243.jpg 1,55,1238,561,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00780.jpg 263,123,476,251,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00161.jpg 1,62,976,358,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00178.jpg 109,160,639,363,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00631.jpg 99,245,585,397,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00091.jpg 103,147,1320,552,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5082.jpg 22,16,992,747,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00110.jpg 46,29,649,340,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00518.jpg 45,71,520,239,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5139.jpg 35,283,1862,840,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5142.jpg 138,528,1560,857,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00140.jpg 881,240,925,341,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5046.jpg 38,397,983,690,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00069.jpg 47,36,640,327,6 1,201,147,247,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00307.jpg 127,200,767,423,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5155.jpg 211,159,1254,466,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5080.jpg 263,177,927,360,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00183.jpg 848,275,900,406,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00020.jpg 492,455,765,720,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400013.jpg 36,416,1567,821,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5087.jpg 1,4,720,460,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00297.jpg 287,21,653,213,2 412,195,628,283,2 61,223,261,321,2 26,392,294,500,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00318.jpg 151,175,646,416,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00108.jpg 11,136,575,291,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00186.jpg 5,48,446,181,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00456.jpg 16,105,440,222,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00654.jpg 130,238,640,450,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400050.jpg 538,185,831,268,5 1177,867,1443,1009,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00805.jpg 131,265,347,346,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00431.jpg 21,7,690,348,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00108.jpg 733,196,791,340,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00485.jpg 2,23,214,110,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00254.jpg 42,105,894,442,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00684.jpg 17,350,624,493,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00298.jpg 1,91,1920,1021,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00051.jpg 119,128,497,292,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00553.jpg 608,865,949,1212,0 434,472,758,775,0 23,395,409,745,0 287,212,591,459,0 581,283,849,503,0 759,526,999,792,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00191.jpg 1,34,728,373,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00490.jpg 53,52,496,342,0 276,125,533,302,0 473,155,595,289,0 521,173,624,274,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400095.jpg 132,624,1019,924,5 187,136,885,372,5 1150,768,1593,878,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00632.jpg 2,241,498,390,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00610.jpg 1,260,640,420,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5007.jpg 189,530,2026,959,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00757.jpg 95,193,642,345,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00705.jpg 13,161,545,422,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00282.jpg 588,96,638,226,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00194.jpg 2,171,2240,1400,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00169.jpg 174,419,2919,1376,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00306.jpg 870,97,909,144,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00019.jpg 502,414,775,669,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00497.jpg 51,54,439,172,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400060.jpg 940,534,1375,721,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00386.jpg 38,55,764,488,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5090.jpg 4,46,355,167,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00023.jpg 55,74,512,375,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00308.jpg 869,103,909,148,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00227.jpg 72,22,385,169,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00265.jpg 79,136,720,390,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00078.jpg 442,125,545,278,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00352.jpg 422,163,1461,597,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00171.jpg 952,249,986,328,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00281.jpg 551,97,610,224,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5146.jpg 40,202,600,383,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00291.jpg 649,124,707,228,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400090.jpg 730,422,911,610,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5070.jpg 225,231,429,355,4 11,8,375,214,4 150,69,410,220,4 216,160,466,250,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00033.jpg 1,51,487,388,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5091.jpg 27,191,545,365,4 128,108,348,185,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00138.jpg 882,225,920,325,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400105.jpg 352,592,568,663,5 842,587,1051,671,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00104.jpg 1,26,1900,1102,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00857.jpg 270,109,633,297,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400144.jpg 631,214,1257,572,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5067.jpg 1,92,582,258,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5003.jpg 136,71,580,245,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00334.jpg 188,127,2048,674,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00045.jpg 159,388,366,572,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00135.jpg 738,172,777,272,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5148.jpg 1,204,970,514,4 385,280,1072,449,4 534,284,1075,435,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00300.jpg 17,38,394,242,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00158.jpg 892,241,932,334,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00848.jpg 97,261,593,395,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00599.jpg 87,223,457,335,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00841.jpg 90,269,442,406,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00279.jpg 487,97,518,222,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00080.jpg 444,137,554,288,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5116.jpg 83,149,1270,566,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400118.jpg 1162,851,1273,893,5 1297,872,1397,918,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00366.jpg 221,112,847,547,2 431,385,1037,766,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00271.jpg 52,68,889,720,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00415.jpg 16,10,360,244,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00558.jpg 21,7,419,284,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00027.jpg 162,372,395,580,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00543.jpg 158,222,474,309,0 293,145,505,199,0 54,178,224,217,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00740.jpg 109,158,401,302,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400200.jpg 17,109,1003,440,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00256.jpg 466,150,535,248,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00346.jpg 70,174,804,414,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00181.jpg 102,384,1352,1001,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400000.jpg 516,455,1389,727,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00752.jpg 206,136,523,228,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00090.jpg 851,71,965,312,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5078.jpg 153,333,942,579,4 255,327,788,450,4 317,324,696,401,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00280.jpg 17,54,782,340,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00852.jpg 265,273,836,431,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00655.jpg 54,227,640,402,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400155.jpg 428,286,1378,698,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5037.jpg 1,1,1028,619,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400130.jpg 766,477,882,522,5 900,455,1024,495,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00722.jpg 5,270,637,444,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00152.jpg 826,210,868,302,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00736.jpg 191,178,524,291,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00151.jpg 223,136,572,232,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00043.jpg 264,402,483,591,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00167.jpg 19,236,1259,625,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00770.jpg 73,123,392,273,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00091.jpg 904,63,1032,309,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00362.jpg 126,112,889,321,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00678.jpg 187,295,451,367,1 237,269,277,293,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00257.jpg 8,94,161,159,2 247,97,402,163,2 225,127,418,226,2 130,171,467,341,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00646.jpg 20,367,325,512,4 277,386,429,447,5 418,409,461,427,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400018.jpg 12,34,985,278,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00157.jpg 890,227,927,321,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00735.jpg 216,196,527,301,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00536.jpg 54,141,633,408,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00134.jpg 22,2,508,363,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00879.jpg 363,168,595,256,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00199.jpg 475,120,492,158,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00316.jpg 9,41,489,224,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00493.jpg 1,339,1760,926,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00103.jpg 1,24,1442,811,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00785.jpg 217,128,455,281,2 569,140,642,185,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00094.jpg 804,73,920,339,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5111.jpg 1,41,600,319,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400002.jpg 23,242,1256,596,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00182.jpg 877,263,929,394,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5073.jpg 9,75,692,349,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400188.jpg 14,631,254,732,5 1047,641,1225,721,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400138.jpg 900,517,1043,578,5 1444,729,1531,767,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5125.jpg 78,131,467,243,4 23,137,343,224,4 1,139,267,210,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00453.jpg 3,318,1800,844,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00651.jpg 219,363,537,508,4 417,381,555,448,5 537,406,580,418,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00215.jpg 123,386,1492,714,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00584.jpg 1,265,640,443,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00061.jpg 623,273,838,455,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00331.jpg 12,57,409,228,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00013.jpg 515,374,867,701,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00111.jpg 820,171,878,311,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00248.jpg 63,1,334,216,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00199.jpg 11,220,602,365,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00267.jpg 646,117,698,249,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5061.jpg 87,76,1823,1060,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00032.jpg 213,367,431,551,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00188.jpg 1,97,617,423,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00601.jpg 83,323,510,433,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00183.jpg 197,109,1105,593,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00424.jpg 32,58,731,292,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00832.jpg 289,142,454,268,4 431,87,576,155,5 532,83,609,103,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5029.jpg 21,387,1309,793,4 226,51,1196,329,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400010.jpg 283,504,1571,856,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00037.jpg 792,376,1002,563,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00022.jpg 1,88,589,345,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00382.jpg 64,22,763,418,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400112.jpg 1576,585,1675,652,5 1708,528,1824,597,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5140.jpg 32,207,963,461,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400032.jpg 222,1167,2556,2162,5 1130,983,3030,1785,5 1673,894,3336,1580,5 2173,791,3585,1388,5 2625,711,3851,1223,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00720.jpg 242,292,518,398,5 532,340,640,381,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00044.jpg 23,84,378,270,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400042.jpg 870,625,1443,847,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400057.jpg 948,447,1276,586,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5110.jpg 170,110,560,211,4 48,206,373,294,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00609.jpg 1,236,635,405,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00747.jpg 114,137,440,281,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00574.jpg 50,101,1147,513,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00367.jpg 74,493,2275,1288,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00214.jpg 76,19,488,372,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00870.jpg 352,209,456,246,0 157,190,417,350,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00261.jpg 794,157,873,255,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00671.jpg 81,328,409,466,2 364,354,480,406,4 440,357,471,381,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00088.jpg 73,67,762,462,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00575.jpg 17,233,977,520,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00703.jpg 42,206,555,444,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00669.jpg 159,326,497,454,2 516,349,640,391,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5127.jpg 145,219,889,537,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400020.jpg 48,186,208,269,5 245,199,432,291,5 469,186,631,271,5 166,153,267,197,5 288,159,393,200,5 422,158,512,198,5 236,136,296,158,5 314,140,374,159,5 396,136,443,158,5 263,129,299,144,5 322,130,363,146,5 385,131,428,145,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400161.jpg 297,348,1723,703,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00038.jpg 1,1,467,339,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00698.jpg 232,361,448,433,1 464,377,541,402,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00888.jpg 303,314,541,407,4 231,298,352,328,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00856.jpg 393,131,786,326,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00184.jpg 821,297,877,426,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00072.jpg 67,153,1531,774,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400137.jpg 885,447,972,485,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5132.jpg 1,1,1024,609,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400092.jpg 942,133,1767,590,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00299.jpg 94,255,1024,564,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00685.jpg 1,325,561,460,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400132.jpg 770,501,1065,602,5 1050,402,1342,502,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400171.jpg 261,211,1296,487,5 696,707,1530,953,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00177.jpg 37,18,493,268,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00056.jpg 618,370,825,555,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00547.jpg 26,146,1024,635,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00180.jpg 2,185,1250,587,1 1,236,832,572,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00487.jpg 1,509,3214,1684,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5039.jpg 11,95,508,237,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400113.jpg 1493,676,1573,724,5 1607,648,1697,702,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00430.jpg 70,24,577,185,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400082.jpg 330,564,588,786,5 1084,267,1265,444,5 1692,134,1807,280,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00667.jpg 138,279,484,423,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00904.jpg 280,211,631,342,4 56,165,277,251,5 16,179,80,206,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00729.jpg 113,328,1013,546,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400039.jpg 7,250,1080,532,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00478.jpg 8,4,482,253,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00727.jpg 1,313,611,470,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00905.jpg 420,257,772,380,4 214,197,417,282,5 196,204,255,226,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00765.jpg 110,248,542,360,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00172.jpg 941,253,978,330,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400075.jpg 79,564,395,700,5 556,473,856,602,5 889,279,1234,401,5 1242,508,1656,675,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00160.jpg 22,130,780,346,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00647.jpg 102,365,404,506,4 332,377,485,445,5 474,404,512,421,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00277.jpg 1,74,521,273,2 110,26,364,124,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5107.jpg 78,160,644,316,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00788.jpg 251,93,518,231,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00237.jpg 13,102,554,429,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00606.jpg 26,247,508,424,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400178.jpg 524,559,1688,1002,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00774.jpg 133,184,484,318,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00374.jpg 518,224,1098,561,2 130,374,634,634,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5149.jpg 7,30,183,98,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00506.jpg 58,415,844,630,0 1050,392,2004,639,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00082.jpg 739,138,896,290,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400097.jpg 258,471,697,652,5 667,218,1032,341,5 1065,459,1382,598,5 1515,548,1861,690,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00078.jpg 60,200,1148,591,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400146.jpg 400,125,1303,752,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5117.jpg 3,24,589,390,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00614.jpg 208,254,514,372,5 516,301,636,343,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400014.jpg 48,239,966,460,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400186.jpg 1,465,1878,919,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00307.jpg 873,104,911,150,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00525.jpg 14,84,432,179,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00116.jpg 784,160,843,306,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00207.jpg 74,117,416,195,1 363,245,697,325,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00257.jpg 1014,163,1093,259,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00433.jpg 13,62,698,258,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400058.jpg 1006,478,1366,628,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00708.jpg 225,331,433,385,2 452,350,553,383,4 541,349,571,374,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00711.jpg 150,268,453,402,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00079.jpg 1,25,662,342,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00241.jpg 1,141,456,323,2 259,178,569,305,2 463,212,600,292,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400017.jpg 1123,484,3128,1228,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5122.jpg 1,32,500,705,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400063.jpg 548,505,1258,776,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00419.jpg 148,455,1662,867,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00604.jpg 10,283,596,465,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5052.jpg 11,17,600,341,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00210.jpg 301,96,328,147,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00052.jpg 642,557,845,720,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00121.jpg 774,158,832,296,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00140.jpg 22,54,511,396,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00425.jpg 11,55,394,186,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00065.jpg 521,383,832,672,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400026.jpg 28,234,1378,600,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00831.jpg 139,73,313,206,4 262,27,383,84,5 344,32,408,48,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00145.jpg 919,240,960,341,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00236.jpg 8,92,606,296,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00395.jpg 1,138,972,622,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00104.jpg 783,224,855,405,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400055.jpg 918,478,1203,593,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400139.jpg 757,440,850,486,5 985,383,1158,453,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00089.jpg 25,82,777,438,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00812.jpg 148,202,299,248,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00876.jpg 220,279,731,478,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00202.jpg 21,130,467,277,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00217.jpg 14,78,383,217,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00154.jpg 877,204,913,297,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00890.jpg 329,370,617,457,4 200,354,340,388,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00076.jpg 29,101,992,489,6 614,175,1024,396,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00767.jpg 134,224,476,315,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00239.jpg 889,144,944,214,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00597.jpg 98,235,546,374,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00112.jpg 802,167,862,306,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400006.jpg 10,239,1599,769,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400089.jpg 764,387,1064,582,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00534.jpg 1,172,675,400,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00133.jpg 1,72,866,369,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00045.jpg 1,31,593,318,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00779.jpg 199,166,380,286,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00335.jpg 8,62,411,207,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00124.jpg 753,159,809,286,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5056.jpg 39,146,593,362,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00413.jpg 494,209,1909,719,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00202.jpg 449,104,466,144,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00303.jpg 675,99,710,146,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400181.jpg 896,830,1354,1015,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00213.jpg 29,69,962,399,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00384.jpg 23,150,781,449,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00638.jpg 16,302,631,465,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5109.jpg 20,174,553,305,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00170.jpg 62,220,1225,578,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00486.jpg 60,26,831,612,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00046.jpg 128,387,335,568,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00330.jpg 1,49,734,346,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400100.jpg 353,613,609,690,5 715,514,966,597,5 1024,573,1269,656,5 1383,655,1623,736,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00129.jpg 819,144,862,247,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00268.jpg 13,157,571,318,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00348.jpg 90,91,900,511,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00178.jpg 843,264,887,368,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00294.jpg 679,122,726,206,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400115.jpg 1177,575,1234,605,5 1262,571,1327,602,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5071.jpg 56,108,446,274,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00190.jpg 584,522,657,716,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00866.jpg 195,269,600,482,4 733,230,856,329,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400030.jpg 8,238,764,417,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400079.jpg 19,222,1582,801,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400189.jpg 887,626,1231,761,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00176.jpg 871,252,913,348,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5156.jpg 1,184,542,333,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00225.jpg 734,140,784,199,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00021.jpg 11,20,711,366,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400004.jpg 12,203,1065,464,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5119.jpg 31,119,487,265,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00101.jpg 277,186,1458,964,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00139.jpg 1,11,601,391,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00728.jpg 212,146,1088,468,5 3,322,240,397,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00093.jpg 143,65,786,413,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00040.jpg 1,75,593,318,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00318.jpg 735,106,772,151,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00206.jpg 127,171,692,360,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5154.jpg 15,54,199,105,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00840.jpg 363,207,668,310,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00408.jpg 117,199,1582,797,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00138.jpg 19,127,585,304,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00682.jpg 1,385,105,430,6 47,399,555,526,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00013.jpg 51,58,468,263,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00262.jpg 101,271,1024,589,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00295.jpg 678,129,724,206,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00224.jpg 97,43,899,645,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00358.jpg 17,27,441,207,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00195.jpg 470,119,494,157,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00073.jpg 11,24,484,238,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00544.jpg 1,112,479,311,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5002.jpg 15,231,980,504,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00008.jpg 568,263,867,520,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00005.jpg 1,44,684,340,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400040.jpg 2,185,1259,489,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00267.jpg 27,118,1807,877,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00378.jpg 178,170,4644,1823,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00076.jpg 411,214,568,394,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00662.jpg 102,187,599,356,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00252.jpg 531,136,590,222,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400122.jpg 1173,847,1231,867,5 1258,869,1321,895,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00270.jpg 864,119,913,245,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5027.jpg 70,277,1873,743,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00834.jpg 155,162,331,291,4 365,112,490,180,5 467,117,542,139,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00320.jpg 95,134,981,438,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00546.jpg 194,89,496,190,0 87,112,215,175,0 39,122,107,172,0 5,125,61,166,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5126.jpg 47,82,1104,730,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00833.jpg 512,153,578,171,0 409,149,534,210,5 232,202,402,347,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00548.jpg 17,59,727,229,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400104.jpg 90,645,313,714,5 504,487,722,554,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400121.jpg 1108,878,1180,905,5 1217,892,1300,924,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00247.jpg 533,134,587,210,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00282.jpg 302,56,617,298,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00021.jpg 478,445,754,705,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00641.jpg 174,292,533,399,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00467.jpg 157,403,1988,993,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5084.jpg 12,65,626,266,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00053.jpg 300,400,1245,818,6 859,464,1392,710,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00296.jpg 408,230,1049,711,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00862.jpg 391,211,660,426,4 626,158,848,242,5 786,159,856,190,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00798.jpg 1,303,285,437,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00269.jpg 900,116,948,246,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00338.jpg 179,97,1130,561,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00014.jpg 586,360,857,666,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5081.jpg 28,27,1374,357,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400051.jpg 506,32,743,121,5 1288,682,1486,798,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00120.jpg 84,59,363,347,1
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00608.jpg 1,214,505,422,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00385.jpg 90,3,336,303,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400124.jpg 1140,657,1166,678,5 1228,746,1258,760,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00109.jpg 710,187,768,334,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400081.jpg 807,254,978,489,5 1301,176,1401,344,5 1681,183,1755,316,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00438.jpg 36,70,379,219,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00489.jpg 6,12,4355,1456,0 31,1209,997,1468,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00673.jpg 80,338,394,474,2 346,379,391,408,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00285.jpg 643,125,704,227,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400084.jpg 154,286,620,880,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00233.jpg 756,126,807,190,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00481.jpg 28,122,771,363,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00381.jpg 27,112,673,330,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00582.jpg 78,307,606,458,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400111.jpg 1635,521,1760,600,5 1781,410,1919,504,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5024.jpg 32,72,763,359,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00030.jpg 7,120,593,336,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00325.jpg 54,70,652,338,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400141.jpg 585,501,735,556,5 835,437,1113,563,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00522.jpg 1,173,880,433,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5005.jpg 84,298,1522,756,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00700.jpg 66,263,540,441,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00295.jpg 93,433,800,704,2 932,453,1454,663,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5059.jpg 15,181,714,352,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00391.jpg 1,15,451,353,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5047.jpg 55,99,368,200,4 169,42,364,97,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00644.jpg 25,326,305,472,4 319,335,476,409,5 437,363,528,383,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00392.jpg 46,32,864,666,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00092.jpg 954,64,1060,308,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00062.jpg 597,304,835,506,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00201.jpg 462,110,481,148,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00578.jpg 1,245,591,392,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400166.jpg 3,88,1919,995,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F5152.jpg 6,126,695,340,4
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00741.jpg 147,125,440,272,6
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00059.jpg 673,288,855,470,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00102.jpg 1148,84,1280,323,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/SO00006.jpg 636,140,851,316,3
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00309.jpg 1,173,1431,1021,2
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00837.jpg 153,147,317,211,4 255,123,326,152,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00562.jpg 3,38,576,192,0
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/F400044.jpg 119,472,1920,941,5
+/home/rokaf/Workspace/TensorFlow-2.x-YOLOv3/Custom_Data_All/test/00688.jpg 42,314,470,442,1

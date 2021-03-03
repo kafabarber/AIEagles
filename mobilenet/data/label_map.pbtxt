@@ -1,0 +1,28 @@
+item {
+  id: 1
+  name: "person"
+}
+item {
+  id: 2
+  name: "A-37B"
+}
+item {
+  id: 3
+  name: "T-6"
+}
+item {
+  id: 4
+  name: "F-86F"
+}
+item {
+  id: 5
+  name: "F-5"
+}
+item {
+  id: 6
+  name: "F-4"
+}
+item {
+  id: 7
+  name: "F-51D"
+}

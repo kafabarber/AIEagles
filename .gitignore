@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+YOLO/model_data/yolov3-tiny.weights
+YOLO/model_data/yolov3.weights
+YOLO/model_data/yolov4-tiny.weights
+YOLO/model_data/yolov4.weights
+
+YOLO/checkpoints/*
+HandMotion/yolov3_best.weights
